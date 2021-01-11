@@ -143,7 +143,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     rouge (2.2.1)
     sass (3.4.25)
     servolux (0.13.0)
@@ -174,7 +174,7 @@ DEPENDENCIES
   middleman-search_engine_sitemap
   middleman-syntax
   nokogiri (~> 1.8.2)
-  redcarpet (~> 3.3, >= 3.3.3)
+  redcarpet (~> 3.5)
   tzinfo-data
   wdm (~> 0.1.0)
 
